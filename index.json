@@ -1,19 +1,6 @@
 {
   "scripts": [
     {
-      "author": "HiddenGem",
-      "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/markdown-link-copier.user.js",
-      "description": "Adds a small button on every page. Click it to copy the page title and URL as a Markdown link.",
-      "downloadURL": "https://github.com/BidyutRoy2/hiddengem-flow-store/raw/main/scripts/markdown-link-copier.user.js",
-      "matches": [
-        "*://*/*"
-      ],
-      "name": "Markdown Link Copier",
-      "publishedAt": "2026-11-15",
-      "updatedAt": "2026-11-15",
-      "version": "1.0.1"
-    },
-    {
       "name": "Titan Exchange Auto Trader Pro by HiddenGem",
       "version": "2.0",
       "author": "HiddenGem",
@@ -26,10 +13,10 @@
       "updatedAt": "2026-11-15"
     },
     {
-      "name": "Universal DOM Diagnostic v2.0 \u2014 TM Only",
+      "name": "Universal DOM Diagnostic v2.0 — TM Only",
       "version": "2.0.0",
       "author": "",
-      "description": "Read-only UI scanner for websites \u2014 30+ diagnostic rules, score, Baseline Diff, hidden-iframe crawler, performance + console capture, overlay, custom rules. Tampermonkey only: no Playwright, no GitHub Actions, no server, no network calls. Baseline and settings stay local.",
+      "description": "Read-only UI scanner for websites — 30+ diagnostic rules, score, Baseline Diff, hidden-iframe crawler, performance + console capture, overlay, custom rules. Tampermonkey only: no Playwright, no GitHub Actions, no server, no network calls. Baseline and settings stay local.",
       "matches": [
         "*://*/*"
       ],

@@ -24,6 +24,18 @@
       "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/titan-exchange-auto-trader-pro-by-hiddengem.user.js",
       "publishedAt": "2026-11-15",
       "updatedAt": "2026-11-15"
+    },
+    {
+      "name": "Universal DOM Diagnostic v2.0 — TM Only",
+      "version": "2.0.0",
+      "author": "",
+      "description": "Read-only UI scanner for websites — 30+ diagnostic rules, score, Baseline Diff, hidden-iframe crawler, performance + console capture, overlay, custom rules. Tampermonkey only: no Playwright, no GitHub Actions, no server, no network calls. Baseline and settings stay local.",
+      "matches": [
+        "*://*/*"
+      ],
+      "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/universal-dom-diagnostic-v2-0-tm-only.user.js",
+      "publishedAt": "2026-11-15",
+      "updatedAt": "2026-11-15"
     }
   ],
   "updatedAt": "2026-11-15",

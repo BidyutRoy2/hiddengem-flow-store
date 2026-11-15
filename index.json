@@ -36,6 +36,19 @@
       "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/universal-dom-diagnostic-v2-0-tm-only.user.js",
       "publishedAt": "2026-11-15",
       "updatedAt": "2026-11-15"
+    },
+    {
+      "name": "9Chain Virtual Node Auto",
+      "version": "2.0.0",
+      "author": "",
+      "description": "Auto Tap to Earn + Daily Gift + Node Tier & Module Upgrades (CPU/RAM/Anti-Sybil/Firewall/Peer/Relay/Consensus/Sharding). https://t.me/hiddengemnews",
+      "matches": [
+        "https://www.9chain.com/virtual-node",
+        "https://www.9chain.com/virtual-node/*"
+      ],
+      "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/9chain-virtual-node-auto.user.js",
+      "publishedAt": "2026-11-15",
+      "updatedAt": "2026-11-15"
     }
   ],
   "updatedAt": "2026-11-15",

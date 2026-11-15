@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Markdown Link Copier
 // @namespace    https://github.com/BidyutRoy2/hiddengem-flow-store
-// @version      1.0.0
+// @version      1.0.1
 // @description  Adds a small button on every page. Click it to copy the page title and URL as a Markdown link.
 // @author       HiddenGem
 // @match        *://*/*
@@ -27,10 +27,17 @@
     }
   }
 
+  function flashCopied() {
+    var original = button.textContent;
+    button.textContent = '✓ Copied!';
+    window.setTimeout(function () { button.textContent = original; }, 1500);
+  }
+
   function copyMarkdownLink() {
     var markdown = '[' + document.title + '](' + window.location.href + ')';
     if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
       navigator.clipboard.writeText(markdown).then(function () {
+        flashCopied();
         notify('Markdown link copied.');
       }, function () {
         notify('Could not copy on this page.');

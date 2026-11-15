@@ -1,1 +1,31 @@
-{"scripts":[{"author":"HiddenGem","codeUrl":"https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/markdown-link-copier.user.js","description":"Adds a small button on every page. Click it to copy the page title and URL as a Markdown link.","downloadURL":"https://github.com/BidyutRoy2/hiddengem-flow-store/raw/main/scripts/markdown-link-copier.user.js","matches":["*://*/*"],"name":"Markdown Link Copier","publishedAt":"2026-11-15","updatedAt":"2026-11-15","version":"1.0.0"}],"updatedAt":"2026-11-15","version":"1.0.0"}
+{
+  "scripts": [
+    {
+      "author": "HiddenGem",
+      "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/markdown-link-copier.user.js",
+      "description": "Adds a small button on every page. Click it to copy the page title and URL as a Markdown link.",
+      "downloadURL": "https://github.com/BidyutRoy2/hiddengem-flow-store/raw/main/scripts/markdown-link-copier.user.js",
+      "matches": [
+        "*://*/*"
+      ],
+      "name": "Markdown Link Copier",
+      "publishedAt": "2026-11-15",
+      "updatedAt": "2026-11-15",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Titan Exchange Auto Trader Pro by HiddenGem",
+      "version": "2.0",
+      "author": "HiddenGem",
+      "description": "Automated trading loop with anti-ban evasion, draggable & minimizable UI, auto faucet claim, safety locks",
+      "matches": [
+        "https://testnet.titanx.cc/trade/*"
+      ],
+      "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/titan-exchange-auto-trader-pro-by-hiddengem.user.js",
+      "publishedAt": "2026-11-15",
+      "updatedAt": "2026-11-15"
+    }
+  ],
+  "updatedAt": "2026-11-15",
+  "version": "1.0.0"
+}

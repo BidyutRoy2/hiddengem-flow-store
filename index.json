@@ -36,6 +36,18 @@
       "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/9chain-virtual-node-auto.user.js",
       "publishedAt": "2026-11-15",
       "updatedAt": "2026-11-15"
+    },
+    {
+      "name": "Firstprint Daily Streak Auto-Claim",
+      "version": "1.0.1",
+      "author": "HiddenGem",
+      "description": "Automatically claims the Firstprint daily streak reward when you open the Earn page. One claim per day (UTC). Clicks only the visible Claim button — it never signs wallet transactions for you.",
+      "matches": [
+        "https://firstprint.fun/app/*"
+      ],
+      "codeUrl": "https://raw.githubusercontent.com/BidyutRoy2/hiddengem-flow-store/main/scripts/firstprint-daily-streak-auto-claim.user.js",
+      "publishedAt": "2026-11-15",
+      "updatedAt": "2026-11-15"
     }
   ],
   "updatedAt": "2026-11-15",
